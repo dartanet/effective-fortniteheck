@@ -2,7 +2,7 @@
 
 #run this
 
-pizza = open("pizzalist.txt", "a") 
+pizza = open("pizzalist.txt", "w+") 
 print("enablign hack type r:") 
 wjerebought= input() 
 print("pizza price") 
