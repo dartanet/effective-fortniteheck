@@ -1,0 +1,19 @@
+#paythoncomment: this is fortnite heck effective edtion
+
+#run this
+
+pizza = open("pizzalist.txt", "w+") 
+print("enablign hack type r:") 
+wjerebought= input() 
+print("pizza price") 
+if str(wjerebought) == "r":
+    print("alert00")
+    print("nabling hecks") #nable
+    #paython readrfrom file
+    hck=pizza.readlines()
+    for a in range(1,1000):
+      if(hck):
+        print(hck+"HECK")
+    
+pizza.write("\n"+"HECKED"); 
+pizza.close()
